@@ -13,7 +13,6 @@ technology in the web development field.
 
 
 - 🌱 I’m currently learning **Hibernate framwork and springboot**
-- 👨‍💻 All of my projects are available at [https://verdant-jelly-feb1cf.netlify.app](https://verdant-jelly-feb1cf.netlify.app)
 -  💬 Ask me about **Full-Stack Web Development , MEARN **
 - 📫 How to reach me **aishwaryakale05@gmail.com**
 - ⚡ Fun fact **I Think I like learn through collaborations.**
